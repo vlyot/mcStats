@@ -2,5 +2,5 @@
 #![cfg_attr(not(debug_assertions), windows_subsystem = "windows")]
 
 fn main() {
-    mcstatshub_lib::run()
+    mcstats_lib::run()
 }
